@@ -1,0 +1,4 @@
+File Location: 'C:\Path\To\Your\File\Which\Must\Exist\Already'
+Output Format: '♫ $artist - $album - $track ♫        '
+Paused Output: 'No Music Playing        '
+Update Rate: 1
